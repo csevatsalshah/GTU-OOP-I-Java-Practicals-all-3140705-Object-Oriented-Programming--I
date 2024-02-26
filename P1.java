@@ -5,3 +5,4 @@ class P1
 		System.out.println("Welcome to Java, Learning Java Now and Programming is fun");
 	}
 }
+
